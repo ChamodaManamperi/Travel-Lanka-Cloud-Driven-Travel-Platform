@@ -8,7 +8,8 @@
 **Type:** Personal concept project
 **Focus:** UI/UX Design · System Design · Cloud-Driven · Front-end Development · SaaS
 
-🎨 **Figma Design:** [Add your Figma link here]
+🎨 **Figma Design:** [https://www.figma.com/community/file/1688492095549209683
+]
 🌐 **Live Demo:** Private demo (hosted on Netlify, API key protected)
 
 ---
