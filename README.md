@@ -178,5 +178,10 @@ This project is 100% my original idea. I wanted to create something that feels m
 
 **Designed with passion in Figma.**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/chamoda-manamperi/details/projects/edit/forms/132786516) · 🎨 [Figma_Community](https://www.figma.com/community/file/1686018675136439472 . 🔗[Behance](https://www.behance.net/gallery/256624131/Travel-Lanka-Cloud-Driven-Travel-Platform) . 🔗 [Dribble](https://dribbble.com/shots/27782627-Travel-Lanka-Cloud-Driven-Travel-Platform)
-)
+🔗 [LinkedIn](https://www.linkedin.com/in/chamoda-manamperi/details/projects/edit/forms/132786516) · 
+
+🎨 [Figma_Community](https://www.figma.com/community/file/1686018675136439472) . 
+
+🔗[Behance](https://www.behance.net/gallery/256624131/Travel-Lanka-Cloud-Driven-Travel-Platform) . 
+
+🔗 [Dribble](https://dribbble.com/shots/27782627-Travel-Lanka-Cloud-Driven-Travel-Platform)
