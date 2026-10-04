@@ -2,7 +2,7 @@
 
 > A cloud-driven travel platform concept that helps travelers explore Sri Lanka smartly, using **real-time weather**, personal preference, and (in future) optimized travel routes with cost awareness.
 
-![Travel Lanka Homepage](images/homepage.png)
+![Travel Lanka Homepage](images/home_page1.png)
 
 **Role:** UI/UX Designer & Front-end Developer
 **Type:** Personal concept project
@@ -177,4 +177,5 @@ This project is 100% my original idea. I wanted to create something that feels m
 
 **Designed with passion in Figma.**
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) · 🎨 [Figma](https://www.figma.com/your-profile)
+🔗 [LinkedIn](https://www.linkedin.com/in/chamoda-manamperi/details/projects/edit/forms/132786516) · 🎨 [Figma_Community](https://www.figma.com/community/file/1686018675136439472 . 🔗[Behance](https://www.behance.net/gallery/256624131/Travel-Lanka-Cloud-Driven-Travel-Platform) . 🔗 [Dribble](https://dribbble.com/shots/27782627-Travel-Lanka-Cloud-Driven-Travel-Platform)
+)
